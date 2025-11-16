@@ -1,0 +1,16 @@
+[
+  {
+    "op": "add",
+    "path": "/ingredients/N/quantity",
+    "value": 2,
+    "file": "game:recipes/grid/chest.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/ingredients/W/quantity",
+    "value": 2,
+    "file": "game:recipes/grid/chest.json",
+    "side": "Server"
+  }
+]

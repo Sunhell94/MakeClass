@@ -1,0 +1,14 @@
+﻿[
+  {
+    "file": "game:blocktypes/plant/leaves/narrow",
+    "op": "addmerge",
+    "path": "/drops/0/dropModByStat",
+    "value": "treeseedDropRate"
+  },
+  {
+    "file": "game:blocktypes/plant/leaves/narrow",
+    "op": "addmerge",
+    "path": "/drops/1/dropModByStat",
+    "value": "stickDropRate"
+  }
+]

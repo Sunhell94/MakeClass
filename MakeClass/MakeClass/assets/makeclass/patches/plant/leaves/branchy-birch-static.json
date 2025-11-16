@@ -1,0 +1,8 @@
+﻿[
+  {
+    "file": "game:blocktypes/plant/leaves/branchy-birch-static",
+    "op": "addmerge",
+    "path": "/drops/0/dropModByStat",
+    "value": "stickDropRate"
+  }
+]

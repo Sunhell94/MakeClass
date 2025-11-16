@@ -1,0 +1,14 @@
+﻿[
+  {
+    "file": "game:blocktypes/plant/crop/turnip",
+    "op": "addmerge",
+    "path": "/dropsByType/*-4/1/dropModByStat",
+    "value": "vegetablesDropRate"
+  },
+  {
+    "file": "game:blocktypes/plant/crop/turnip",
+    "op": "addmerge",
+    "path": "/dropsByType/*-5/1/dropModByStat",
+    "value": "vegetablesDropRate"
+  }
+]

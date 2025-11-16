@@ -1,0 +1,34 @@
+[
+  {
+    "op": "replace",
+    "path": "/ingredientPattern",
+    "value": "SPS,NP_,SPS",
+    "file": "game:recipes/grid/barrel.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/ingredients/N",
+    "value": {
+      "type": "item",
+      "code": "metalnailsandstrips-*",
+      "quantity": 1
+    },
+    "file": "game:recipes/grid/barrel.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/ingredients/P/quantity",
+    "value": 2,
+    "file": "game:recipes/grid/barrel.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/ingredients/S/quantity",
+    "value": 2,
+    "file": "game:recipes/grid/barrel.json",
+    "side": "Server"
+  }
+]

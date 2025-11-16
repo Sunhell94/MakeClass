@@ -1,0 +1,8 @@
+﻿[
+  {
+    "file": "game:blocktypes/plant/crop/spelt",
+    "op": "addmerge",
+    "path": "/dropsByType/*-9/1/dropModByStat",
+    "value": "produceDropRate"
+  }
+]

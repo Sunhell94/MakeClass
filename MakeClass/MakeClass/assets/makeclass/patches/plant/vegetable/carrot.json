@@ -1,0 +1,14 @@
+﻿[
+  {
+    "file": "game:blocktypes/plant/crop/carrot",
+    "op": "addmerge",
+    "path": "/dropsByType/*-6/1/dropModByStat",
+    "value": "vegetablesDropRate"
+  },
+  {
+    "file": "game:blocktypes/plant/crop/carrot",
+    "op": "addmerge",
+    "path": "/dropsByType/*-7/1/dropModByStat",
+    "value": "vegetablesDropRate"
+  }
+]

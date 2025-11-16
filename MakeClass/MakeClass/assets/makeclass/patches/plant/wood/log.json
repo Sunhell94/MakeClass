@@ -1,0 +1,8 @@
+﻿[
+  {
+    "file": "game:blocktypes/wood/woodtyped/log",
+    "op": "addmerge",
+    "path": "/drops/0/dropModByStat",
+    "value": "woodDropRate"
+  }
+]

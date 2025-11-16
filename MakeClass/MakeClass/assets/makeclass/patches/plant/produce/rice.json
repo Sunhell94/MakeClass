@@ -1,0 +1,8 @@
+﻿[
+  {
+    "file": "game:blocktypes/plant/crop/rice",
+    "op": "addmerge",
+    "path": "/dropsByType/*-10/1/dropModByStat",
+    "value": "produceDropRate"
+  }
+]

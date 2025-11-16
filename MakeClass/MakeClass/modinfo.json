@@ -1,0 +1,16 @@
+{
+  "type": "code",
+  "modid": "makeclass",
+  "name": "MakeClass",
+  "authors": [
+    "ripls",
+    "osminogr",
+    "sunhell"
+  ],
+  "description": "To be added",
+  "version": "1.3.0",
+  "dependencies": {
+    "game": ""
+  },
+  "entrydll": "MakeClass.dll"
+}

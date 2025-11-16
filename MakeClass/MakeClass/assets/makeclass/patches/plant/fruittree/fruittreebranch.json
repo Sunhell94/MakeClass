@@ -1,0 +1,14 @@
+﻿[
+  {
+    "file": "game:blocktypes/plant/fruittreebranch",
+    "op": "addmerge",
+    "path": "/dropsByType/*-branch/0/dropModByStat",
+    "value": "fruittreeDropRate"
+  },
+  {
+    "file": "game:blocktypes/plant/fruittreebranch",
+    "op": "addmerge",
+    "path": "/dropsByType/*-cutting/0/dropModByStat",
+    "value": "fruittreeDropRate"
+  }
+]

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakeClass", "MakeClass\MakeClass\MakeClass.csproj", "{0D97358E-EFBC-40E9-941E-38461B77A59F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CakeBuild", "MakeClass\ZZCakeBuild\CakeBuild.csproj", "{7E750AD0-80FB-4C05-B284-712CC4D3B0BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D97358E-EFBC-40E9-941E-38461B77A59F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D97358E-EFBC-40E9-941E-38461B77A59F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D97358E-EFBC-40E9-941E-38461B77A59F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D97358E-EFBC-40E9-941E-38461B77A59F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E750AD0-80FB-4C05-B284-712CC4D3B0BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E750AD0-80FB-4C05-B284-712CC4D3B0BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E750AD0-80FB-4C05-B284-712CC4D3B0BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E750AD0-80FB-4C05-B284-712CC4D3B0BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

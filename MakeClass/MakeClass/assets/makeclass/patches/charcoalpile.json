@@ -1,0 +1,12 @@
+﻿[
+  {
+    "op": "replace",
+    "file": "game:blocktypes/charcoalpile",
+    "path": "/drops/0",
+    "value": {
+      "type": "item",
+      "code": "charcoal",
+      "dropModByStat": "charcoalPileDropRate"
+    }
+  }
+]

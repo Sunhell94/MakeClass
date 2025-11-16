@@ -1,0 +1,16 @@
+[
+  {
+    "op": "add",
+    "file": "bulkmolds:recipes/clayforming/bulkarrowhead.json",
+    "side": "Server",
+    "path": "/attributes",
+    "value": {}
+  },
+  {
+    "op": "add",
+    "file": "bulkmolds:recipes/clayforming/bulkarrowhead.json",
+    "side": "Server",
+    "path": "/attributes/needTrait",
+    "value": "PotterTrait"
+  }
+]

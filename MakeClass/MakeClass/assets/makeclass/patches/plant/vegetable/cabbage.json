@@ -1,0 +1,14 @@
+﻿[
+  {
+    "file": "game:blocktypes/plant/crop/cabbage",
+    "op": "addmerge",
+    "path": "/dropsByType/*-11/1/dropModByStat",
+    "value": "vegetablesDropRate"
+  },
+  {
+    "file": "game:blocktypes/plant/crop/cabbage",
+    "op": "addmerge",
+    "path": "/dropsByType/*-12/1/dropModByStat",
+    "value": "vegetablesDropRate"
+  }
+]

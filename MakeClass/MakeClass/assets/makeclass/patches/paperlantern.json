@@ -1,0 +1,8 @@
+﻿[
+  {
+    "file": "game:blocktypes/paperlantern",
+    "op": "addmerge",
+    "path": "/attributes/handbook/exclude",
+    "value": false
+  }
+]
